@@ -167,8 +167,8 @@
   .iamCol { font-size: 23px;padding-top: 17px;}
   .iamCol p { display: inline !important; }
   .slideCol { text-align: center; margin-top: 5px; }
-  .quoteBy{font-size: 9px}
-  .t-quote{font-size: 0.7em}
+  .quoteBy{font-size: 8px}
+  .t-quote{font-size: 0.65em}
 }
 
 @media only screen and (min-width : 768px) and (max-width : 770px) {
