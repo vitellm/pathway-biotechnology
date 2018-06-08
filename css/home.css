@@ -71,7 +71,7 @@
    height: 200px;
    overflow: hidden;
 }
-.scroller .inner { animation: 35s normal infinite running scroll; }
+.scroller .inner { animation: 45s normal infinite running scroll; }
 @keyframes scroll {
    0%   {margin-top: 0px;}
    23%  {margin-top: 0px;}

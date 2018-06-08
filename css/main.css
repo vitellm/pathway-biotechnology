@@ -58,7 +58,6 @@ h3{
 .section-title2{
     border-bottom: solid 1px #ddd;
     padding-bottom: 15px;
-    margin-top: 30px;
     margin-bottom: 60px;
     color: #000;
 }
@@ -355,6 +354,7 @@ width: 100%;
   }
   .section-title2{
     font-size:1.35em;
+    margin-top:0px;
   }
   .content-area, .featured-area{
     padding-left: 0px !important;
@@ -403,6 +403,11 @@ width: 100%;
 @media(min-width: 607px){
   .section-title2{
     font-size:1.73em;
+  }
+}
+@media(min-width: 700px){
+  .section-title2{
+    margin-top:30px;
   }
 }
 @media(min-width: 750px){
