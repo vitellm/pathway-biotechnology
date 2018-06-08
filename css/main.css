@@ -354,7 +354,7 @@ width: 100%;
   }
   .section-title2{
     font-size:1.35em;
-    margin-top:0px;
+    margin-top:-10px;
   }
   .content-area, .featured-area{
     padding-left: 0px !important;
