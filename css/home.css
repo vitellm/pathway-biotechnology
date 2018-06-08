@@ -71,16 +71,16 @@
    height: 200px;
    overflow: hidden;
 }
-.scroller .inner { animation: 45s normal infinite running scroll; }
+.scroller .inner { animation: 40s normal infinite running scroll; }
 @keyframes scroll {
    0%   {margin-top: 0px;}
-   23%  {margin-top: 0px;}
+   28%  {margin-top: 0px;}
 
    33%  {margin-top: -200px;}
-   56%  {margin-top: -200px;}
+   61%  {margin-top: -200px;}
    
    66%  {margin-top: -400px;}
-   90%  {margin-top: -400px;}
+   95%  {margin-top: -400px;}
 
    100% {margin-top: 0px;}
 }
