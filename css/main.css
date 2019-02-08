@@ -101,7 +101,7 @@ h3{
     padding: 0px 12px;
   }
   .nav-container li a, .fixeddiv .nav-container > ul > li > a{
-    font-size: 12px;
+    font-size: 11.63px;
   }
 }
 @media(min-width: 1200px){
@@ -112,7 +112,7 @@ h3{
     padding: 0px 16px;
   }
   .nav-container li a, .fixeddiv .nav-container > ul > li > a{
-    font-size: 13px;
+    font-size: 12.73px;
   }
 }
 
@@ -492,7 +492,7 @@ body {font-family: "Open Sans", Helvetica, sans-serif; font-size: 14pxpx; line-h
   .menu-toggle,
   #navbar  {
     display: none!important;
-  }       
+  }
 }
 #wprmenu_bar {
   background: #2d2d2d;
@@ -546,8 +546,8 @@ body {font-family: "Open Sans", Helvetica, sans-serif; font-size: 14pxpx; line-h
 }
 
 
-.job-type.term-, .job-type. { background-color: #fff; } 
-.job-type.term-, .job-type. { background-color: #fff; } 
+.job-type.term-, .job-type. { background-color: #fff; }
+.job-type.term-, .job-type. { background-color: #fff; }
 body.custom-background { background-color: #f3f1ed; }
 
 
@@ -572,8 +572,8 @@ body.custom-background { background-color: #f3f1ed; }
   }
   .owl-buttons div:last-child span:before{
     content: '\f501';
-  }     
-  
+  }
+
 
 /** deliverable **/
 .clickable {
@@ -675,7 +675,7 @@ body.custom-background { background-color: #f3f1ed; }
   }
   #seminars{
     padding-bottom:0px;
-  } 
+  }
 }
 
 @media(min-width: 460px){
@@ -770,9 +770,9 @@ body.custom-background { background-color: #f3f1ed; }
   }
 }
 
-  
+
 /** footer **/
-  
+
 .footer-row .col-md-6 h3{
 	font-family: Roboto, Georgia, serif;
 	font-weight:400;
@@ -797,7 +797,7 @@ body.custom-background { background-color: #f3f1ed; }
 	color: #c7c7c7;
 	transition: .25s;
 	-webkit-transition: .25s;
-	
+
 }
 .footer-nav a:visited {
     //color: #373737;
